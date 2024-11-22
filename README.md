@@ -1,5 +1,3 @@
-# 
-  
 #Vanilla-JS projects with live Demo
 
 <table>
