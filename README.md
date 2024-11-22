@@ -1,4 +1,4 @@
-#Vanilla-JS projects with live Demo
+**#Vanilla-JS projects with live Demo**
 
 <table>
 <thead>
@@ -24,7 +24,6 @@
 <td align="center"><a href="https://github.com/sainijitendrakumar/react.js/tree/main/context_api_with_local_storage">Todo List App</a></td>
 <td align="center"><a href="https://react-js-7czk.vercel.app/" rel="nofollow">Live Demo</a></td>
 </tr>
-<tr>
-</tr> -->
+ -->
 </tbody>
 </table>
