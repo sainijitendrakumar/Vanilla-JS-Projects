@@ -1,0 +1,35 @@
+@charset "UTF-8";
+.btn {
+  background-color: rgb(195, 71, 71);
+  color: aliceblue;
+}
+
+#main-item {
+  position: relative;
+  z-index: 20;
+}
+
+.input-box {
+  padding: 9px;
+  margin-right: 7px;
+}
+
+.notes {
+  width: 200px;
+  border: 2px solid black;
+  padding: 8px;
+  background: lightyellow;
+  position: absolute;
+  left: 0;
+  top: 0;
+  user-select: none;
+  cursor: grab;
+}
+.notes::before {
+  content: "📌";
+  margin-right: 5px;
+}
+
+.notes:active {
+  cursor: grabbing;
+}/*# sourceMappingURL=style.css.map */
