@@ -1,0 +1,55 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #a5eee8;
+}
+.specialChar{
+        width: 23px;
+        height: 18px;
+        margin-right: 3px;
+        margin-top: 2px;
+}
+.numaric{
+    width: 23px;
+        height: 18px;
+        margin-right: 3px;
+        margin-top: 2px;
+}
+.passwordGen{
+    background-color: ghostwhite;
+    width: 40%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    .input{
+        width: 100%;
+        margin: 5px;
+        border-radius: 6px;
+        padding: 5px;
+    }
+    .functionalities{
+            font-size: large;
+                font-weight: 500;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        list-style: none;
+        padding-left: 0rem !important;
+        margin-bottom: 0 !important;
+        li{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            input{
+                    margin-right: 7px;
+                    margin-top: 4px;      
+            }
+        }
+    }
+}
