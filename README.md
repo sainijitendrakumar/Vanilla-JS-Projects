@@ -24,6 +24,10 @@
 <td align="center"><a href="https://github.com/sainijitendrakumar/Vanilla-JS-Projects/tree/main/scroll_bar">Infinite scroll bar </a></td>
 <td align="center"><a href="https://vanilla-js-projects-6llw.vercel.app/" rel="nofollow">Live Demo</a></td>
 </tr>
+<td align="center">04</td>
+<td align="center"><a href="https://github.com/sainijitendrakumar/Vanilla-JS-Projects/tree/main/drag-down%20notes">Drag down notes </a></td>
+<td align="center"><a href="https://vanilla-js-projects-tu3j.vercel.app/" rel="nofollow">Live Demo</a></td>
+</tr>
 
 </tbody>
 </table>
