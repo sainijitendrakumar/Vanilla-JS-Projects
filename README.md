@@ -21,8 +21,8 @@
 </tr>
 <tr>
 <td align="center">03</td>
-<td align="center"><a href=""> </a></td>
-<td align="center"><a href=" " rel="nofollow">Live Demo</a></td>
+<td align="center"><a href="https://github.com/sainijitendrakumar/Vanilla-JS-Projects/tree/main/scroll_bar">Infinite scroll bar </a></td>
+<td align="center"><a href="https://vanilla-js-projects-6llw.vercel.app/" rel="nofollow">Live Demo</a></td>
 </tr>
 
 </tbody>
