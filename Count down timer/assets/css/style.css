@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.countdown_container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: darkgray;
+  color: white;
+  border-radius: 6px;
+}
+@media only screen and (min-width: 992px) {
+  .countdown_container {
+    width: 40%;
+  }
+}
+.countdown_container .colon {
+  font-size: 30px;
+  font-weight: 400;
+  position: relative;
+  top: 39px;
+}
+.countdown_container ul {
+  list-style: none;
+  display: flex;
+  padding-left: 0 !important;
+  justify-content: space-around;
+}
+.countdown_container ul li {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.countdown_container ul li input {
+  width: 100%;
+  text-align: center;
+  font-size: 35px;
+  border: none;
+}
+.countdown_container ul li input::-webkit-inner-spin-button, .countdown_container ul li input ::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.countdown_container ul li input:hover {
+  border: none;
+}
+.countdown_container ul li input:active {
+  border: none;
+}
+.countdown_container .btn-container .btn {
+  margin: 10px;
+  background-color: red;
+  color: white;
+}
+.countdown_container .btn-container .start {
+  background-color: rgb(59, 167, 230);
+}
+.countdown_container .btn-container .stop {
+  background-color: rgb(225, 109, 42);
+  display: none;
+}
+.countdown_container .btn-container .reset {
+  background-color: rgb(116, 163, 127);
+}/*# sourceMappingURL=style.css.map */
