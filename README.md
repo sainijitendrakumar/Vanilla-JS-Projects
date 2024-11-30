@@ -11,7 +11,7 @@
 <tbody>
 <tr>
 <td align="center">01</td>
-<td align="center"><a href="https://github.com/sainijitendrakumar/react.js/tree/main/Currency%20convertor">Tic-Tac-Toi Game</a></td>
+<td align="center"><a href="https://github.com/sainijitendrakumar/Vanilla-JS-Projects/tree/main/Tic-Tac-Toi">Tic-Tac-Toi Game</a></td>
 <td align="center"><a href="https://vanilla-js-projects-ivory.vercel.app/" rel="nofollow">Live Demo</a></td>
 </tr>
 <tr>
